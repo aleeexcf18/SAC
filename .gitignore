@@ -50,6 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.cyclo
+*.mk 
+makefile
+.settings
+Startup
+.metadata
 *cyclo
 .metadata
 .settings
