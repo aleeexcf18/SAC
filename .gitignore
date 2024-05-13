@@ -56,3 +56,12 @@ makefile
 .settings
 Startup
 .metadata
+*cyclo
+.metadata
+.settings
+.project
+.cproject
+.mxproject
+Debug
+Startup
+
